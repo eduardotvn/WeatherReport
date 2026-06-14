@@ -1,0 +1,11 @@
+pandas
+numpy
+kafka-python
+pyarrow
+fastparquet
+streamlit
+plotly
+torch
+matplotlib
+scikit-learn
+deltalake

@@ -1,0 +1,10 @@
+venv/
+.venv/
+env/
+*/venv/
+data/silver/
+data/gold/
+*/data/bronze/
+*/data/silver/
+*/data/gold/
+**/_delta_log/
