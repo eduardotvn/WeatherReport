@@ -1,10 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
 venv/
 .venv/
 env/
-*/venv/
+data/bronze/
 data/silver/
 data/gold/
-*/data/bronze/
-*/data/silver/
-*/data/gold/
 **/_delta_log/
+**/*.parquet
+src/models/*.pth
